@@ -3,5 +3,5 @@
 **/*.fls
 **/*.log
 **/*.synctex.gz
-**/pytest_cache/
+**/.pytest_cache/
 **/__pycache__/
